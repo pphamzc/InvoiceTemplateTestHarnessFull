@@ -1,0 +1,12 @@
+C:\Programming\InvoiceTemplateTestHarness\RazorEngine\bin\Debug\RazorEngine.dll
+C:\Programming\InvoiceTemplateTestHarness\RazorEngine\bin\Debug\RazorEngine.pdb
+C:\Programming\InvoiceTemplateTestHarness\RazorEngine\bin\Debug\Newtonsoft.Json.dll
+C:\Programming\InvoiceTemplateTestHarness\RazorEngine\bin\Debug\Westwind.RazorHosting.dll
+C:\Programming\InvoiceTemplateTestHarness\RazorEngine\bin\Debug\System.Web.Razor.dll
+C:\Programming\InvoiceTemplateTestHarness\RazorEngine\bin\Debug\Westwind.RazorHosting.pdb
+C:\Programming\InvoiceTemplateTestHarness\RazorEngine\bin\Debug\Westwind.RazorHosting.xml
+C:\Programming\InvoiceTemplateTestHarness\RazorEngine\bin\Debug\Newtonsoft.Json.xml
+C:\Programming\InvoiceTemplateTestHarness\RazorEngine\bin\Debug\System.Web.Razor.xml
+C:\Programming\InvoiceTemplateTestHarness\RazorEngine\obj\Debug\Razor.csprojResolveAssemblyReference.cache
+C:\Programming\InvoiceTemplateTestHarness\RazorEngine\obj\Debug\RazorEngine.dll
+C:\Programming\InvoiceTemplateTestHarness\RazorEngine\obj\Debug\RazorEngine.pdb

@@ -1,0 +1,4 @@
+C:\Programming\InvoiceTemplateTestHarness\Model\bin\Release\Model.dll
+C:\Programming\InvoiceTemplateTestHarness\Model\bin\Release\Model.pdb
+C:\Programming\InvoiceTemplateTestHarness\Model\obj\Release\Model.dll
+C:\Programming\InvoiceTemplateTestHarness\Model\obj\Release\Model.pdb

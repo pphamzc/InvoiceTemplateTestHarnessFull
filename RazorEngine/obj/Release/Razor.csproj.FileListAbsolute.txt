@@ -1,0 +1,8 @@
+C:\Programming\InvoiceTemplateTestHarness\RazorEngine\bin\Release\RazorEngine.dll
+C:\Programming\InvoiceTemplateTestHarness\RazorEngine\bin\Release\RazorEngine.pdb
+C:\Programming\InvoiceTemplateTestHarness\RazorEngine\bin\Release\Westwind.RazorHosting.dll
+C:\Programming\InvoiceTemplateTestHarness\RazorEngine\bin\Release\Westwind.RazorHosting.pdb
+C:\Programming\InvoiceTemplateTestHarness\RazorEngine\bin\Release\Westwind.RazorHosting.xml
+C:\Programming\InvoiceTemplateTestHarness\RazorEngine\obj\Release\Razor.csprojResolveAssemblyReference.cache
+C:\Programming\InvoiceTemplateTestHarness\RazorEngine\obj\Release\RazorEngine.dll
+C:\Programming\InvoiceTemplateTestHarness\RazorEngine\obj\Release\RazorEngine.pdb

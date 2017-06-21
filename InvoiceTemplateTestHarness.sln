@@ -1,0 +1,96 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvoiceTemplateTestHarness", "InvoiceTemplateTestHarness\InvoiceTemplateTestHarness.csproj", "{FB977D2E-F7D7-4184-8E98-EA8B0ECF88D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razor", "RazorEngine\Razor.csproj", "{89F75A41-0B14-4978-8EDE-514144ACA601}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{69662391-8BFE-4479-B905-6D76B41BCEBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Westwind.RazorHosting", "..\..\Users\ppham\Documents\GitHub\Westwind.RazorHosting\Westwind.RazorHosting\Westwind.RazorHosting.csproj", "{ABF048CF-EAD5-40B7-AED2-B367E8579590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Westwind.RazorHosting.Tests", "..\..\Users\ppham\Documents\GitHub\Westwind.RazorHosting\Westwind.RazorHosting.Tests\Westwind.RazorHosting.Tests.csproj", "{A85CDBCE-2F73-41C4-807B-5E10ECA7C443}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{697A2C49-DCF5-4857-AC8D-140C912D00C9}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Users\ppham\Documents\GitHub\Westwind.RazorHosting\ChangeLog.md = ..\..\Users\ppham\Documents\GitHub\Westwind.RazorHosting\ChangeLog.md
+		..\..\Users\ppham\Documents\GitHub\Westwind.RazorHosting\Readme.md = ..\..\Users\ppham\Documents\GitHub\Westwind.RazorHosting\Readme.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{C4214E81-A5A7-4FEB-8388-2872FC06EC82}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Users\ppham\Documents\GitHub\Westwind.RazorHosting\.nuget\NuGet.Config = ..\..\Users\ppham\Documents\GitHub\Westwind.RazorHosting\.nuget\NuGet.Config
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		..\..\Users\ppham\Documents\GitHub\Westwind.RazorHosting\.nuget\NuGet.exe = ..\..\Users\ppham\Documents\GitHub\Westwind.RazorHosting\.nuget\NuGet.exe
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		..\..\Users\ppham\Documents\GitHub\Westwind.RazorHosting\.nuget\NuGet.targets = ..\..\Users\ppham\Documents\GitHub\Westwind.RazorHosting\.nuget\NuGet.targets
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB977D2E-F7D7-4184-8E98-EA8B0ECF88D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB977D2E-F7D7-4184-8E98-EA8B0ECF88D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB977D2E-F7D7-4184-8E98-EA8B0ECF88D3}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{FB977D2E-F7D7-4184-8E98-EA8B0ECF88D3}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{FB977D2E-F7D7-4184-8E98-EA8B0ECF88D3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FB977D2E-F7D7-4184-8E98-EA8B0ECF88D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB977D2E-F7D7-4184-8E98-EA8B0ECF88D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB977D2E-F7D7-4184-8E98-EA8B0ECF88D3}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{FB977D2E-F7D7-4184-8E98-EA8B0ECF88D3}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{FB977D2E-F7D7-4184-8E98-EA8B0ECF88D3}.Release|x86.ActiveCfg = Release|Any CPU
+		{89F75A41-0B14-4978-8EDE-514144ACA601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F75A41-0B14-4978-8EDE-514144ACA601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F75A41-0B14-4978-8EDE-514144ACA601}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{89F75A41-0B14-4978-8EDE-514144ACA601}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{89F75A41-0B14-4978-8EDE-514144ACA601}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{89F75A41-0B14-4978-8EDE-514144ACA601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F75A41-0B14-4978-8EDE-514144ACA601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89F75A41-0B14-4978-8EDE-514144ACA601}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{89F75A41-0B14-4978-8EDE-514144ACA601}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{89F75A41-0B14-4978-8EDE-514144ACA601}.Release|x86.ActiveCfg = Release|Any CPU
+		{69662391-8BFE-4479-B905-6D76B41BCEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69662391-8BFE-4479-B905-6D76B41BCEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69662391-8BFE-4479-B905-6D76B41BCEBA}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{69662391-8BFE-4479-B905-6D76B41BCEBA}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{69662391-8BFE-4479-B905-6D76B41BCEBA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{69662391-8BFE-4479-B905-6D76B41BCEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69662391-8BFE-4479-B905-6D76B41BCEBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69662391-8BFE-4479-B905-6D76B41BCEBA}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{69662391-8BFE-4479-B905-6D76B41BCEBA}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{69662391-8BFE-4479-B905-6D76B41BCEBA}.Release|x86.ActiveCfg = Release|Any CPU
+		{ABF048CF-EAD5-40B7-AED2-B367E8579590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF048CF-EAD5-40B7-AED2-B367E8579590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF048CF-EAD5-40B7-AED2-B367E8579590}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{ABF048CF-EAD5-40B7-AED2-B367E8579590}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{ABF048CF-EAD5-40B7-AED2-B367E8579590}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ABF048CF-EAD5-40B7-AED2-B367E8579590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF048CF-EAD5-40B7-AED2-B367E8579590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF048CF-EAD5-40B7-AED2-B367E8579590}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{ABF048CF-EAD5-40B7-AED2-B367E8579590}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{ABF048CF-EAD5-40B7-AED2-B367E8579590}.Release|x86.ActiveCfg = Release|Any CPU
+		{A85CDBCE-2F73-41C4-807B-5E10ECA7C443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A85CDBCE-2F73-41C4-807B-5E10ECA7C443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A85CDBCE-2F73-41C4-807B-5E10ECA7C443}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{A85CDBCE-2F73-41C4-807B-5E10ECA7C443}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{A85CDBCE-2F73-41C4-807B-5E10ECA7C443}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A85CDBCE-2F73-41C4-807B-5E10ECA7C443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A85CDBCE-2F73-41C4-807B-5E10ECA7C443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A85CDBCE-2F73-41C4-807B-5E10ECA7C443}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{A85CDBCE-2F73-41C4-807B-5E10ECA7C443}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{A85CDBCE-2F73-41C4-807B-5E10ECA7C443}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
