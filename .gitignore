@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.exe
+packages/itext7.7.0.3/lib/net40/itext.barcodes.dll
+*.dll
+*.pdb
